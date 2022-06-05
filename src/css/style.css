@@ -1,0 +1,14 @@
+.menu{
+	margin-top: .7em;
+}
+
+.menu-active{
+	margin-top: .25em;
+	font-size: 1.5em;
+	font-weight: bold
+}
+
+input[type=checkbox]{
+	width: 25px;
+	height: 25px;
+}
